@@ -1,0 +1,82 @@
+body {
+    font-family: Arial;
+    background-image: url('https://media.istockphoto.com/id/1217028316/vector/drawn-coffee-bean-seamless-background-pattern-with-falling-coffee-beans-food-doodle-sketch.jpg?s=612x612&w=0&k=20&c=MoVp69-EV_WJvPdHjiGbbGJHO3Z715MrmptcdXLL9Ak=');
+    background-color: #f3e9dc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 30px;
+}
+
+.box {
+    background-color: #6f4e37;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.content-box {
+    background-color: #d2691e; 
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: left;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #6f4e37;
+    color: white;
+}
+
+nav {
+    background-color: #d2691e;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 15px;
+    display:inline-block;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+section a {
+    color: #333;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #6f4e37;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
